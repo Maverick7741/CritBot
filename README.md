@@ -1,2 +1,2 @@
 # RoyBot
-A flaming hot Discord bot with relatively straightforward features.
+A flaming hot Discord bot with fired up features.
